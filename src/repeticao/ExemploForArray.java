@@ -1,3 +1,5 @@
+package repeticao;
+
 public class ExemploForArray {
     public static void main(String[] args) {
         String alunos [] = {"FELIPE", "JONAS", "JULIA", "MARCOS"};

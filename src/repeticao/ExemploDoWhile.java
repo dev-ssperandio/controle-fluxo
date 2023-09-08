@@ -1,3 +1,5 @@
+package repeticao;
+
 import java.util.Random;
 
 public class ExemploDoWhile {
